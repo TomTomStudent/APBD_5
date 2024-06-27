@@ -11,7 +11,7 @@ Create the table in database according to the diagram below. Communication
 with the database should occur through the SqlConnection/SqlCommand
 classes.
 
-![image](https://github.com/TomTomStudent/APBD_5/assets/127242186/8fa8588f-a78e-418a-abd4-20aa2be4350f)
+![image](https://github.com/TomTomStudent/APBD_5/assets/127242186/1eee9f26-643a-47f5-9fcc-306a555a4204)
 
 
 Server data: db-mssql16.pjwstk.edu.pl
